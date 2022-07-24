@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    text-align: center;
+    background-color: lightblue;
+}
+
+li {
+    text-align: left;
+}
